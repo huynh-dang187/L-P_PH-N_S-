@@ -1,0 +1,5 @@
+D:/c++ house/phanso/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/c++ house/phanso/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/c++ house/phanso/out/build/x64-debug/phanso/CMakeFiles/phanso.dir
+D:/c++ house/phanso/out/build/x64-debug/phanso/CMakeFiles/edit_cache.dir
+D:/c++ house/phanso/out/build/x64-debug/phanso/CMakeFiles/rebuild_cache.dir
